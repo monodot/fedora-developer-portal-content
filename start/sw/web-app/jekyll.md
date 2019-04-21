@@ -11,7 +11,7 @@ Jekyll is simple static site generator that focuses on blogs, but can be used fo
 ## Installation
 
 ```
-$ sudo dnf install ruby-devel
+$ sudo dnf install ruby-devel redhat-rpm-config
 $ gem install jekyll
 ```
 
